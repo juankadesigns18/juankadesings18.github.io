@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "my weeb"
+		},
+		{
+			"path": "draws"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"naumovs.color-highlight"
+		]
+	}
+}
